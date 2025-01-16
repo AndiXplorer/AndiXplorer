@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/95/46/bd/9546bd92ed059e046f6a24c8fe7e936a.gif" alt="Anime Cat Coding" />
+  <img src="https://i.pinimg.com/originals/67/20/aa/6720aac3d27437810aa0b1cccf5855da.gif" alt="Anime Cat Coding" />
 </div>
 
 <div align="center">
