@@ -22,7 +22,8 @@
 - 🎯 **Goals:** Simplify complex tasks with automation and backend development.  
 
 ---
-
+🚀 Currently embarking on a new startup journey (details coming soon!).
+---
 ### Contact Me  
 - 📧 **Email:** [iamandicakolli@gmail.com](mailto:iamandicakolli@gmail.com)  
 - 💼 **LinkedIn:** [Andi Cakolli](https://linkedin.com/in/andicakolli)
