@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Andi!;Code+is+life%2C+debugging+is+art+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/67/20/aa/6720aac3d27437810aa0b1cccf5855da.gif" alt="Anime Cat Coding" />
-</div>
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hello world">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge" />
