@@ -23,6 +23,5 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,docker,linux,php,laravel,python,selenium,figma" alt="Tech Stack Icons" />
 </div>
 
----
 
 
