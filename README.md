@@ -5,11 +5,16 @@ I'm a backend developer focused on crafting efficient, scalable solutions—like
 <br/>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hello world">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge" />
-</div>
+![Divider](https://vaxerski.xyz/github/repos1.gif)
+**Dota2AutoCombos** [ uf ] Macro Script for Dota 2: Automates Invoker combos. More heroes coming soon! <br/><br/>
+**parent-email-sender** [ f ] script designed for Akademia jCoders to automate the process of sending personalized emails to students' parents. <br/><br/>
+**console-crush** [ f ]  interactive terminal emulator built with React, simulating a Linux-like environment.<br/><br/>
+**facebookphish** [ f ] This repository contains an educational simulation of a Facebook phishing page designed to demonstrate how phishing attacks work. For educational purposes only.<br/><br/>
+**e-Vaktia** [ f ] is one of my earliest projects, developed exclusively for the Ramazan 2020 period. Feel free to copy and modify the code. Moreover, if you update the data in data.json, it will work for subsequent years.<br/><br/>
+*Just to name a few...*<br/>
+
+*f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
 
 
 ---
