@@ -1,33 +1,20 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Andi!;Code+is+life%2C+debugging+is+art+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
+![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)
+I'm a backend developer focused on crafting efficient, scalable solutions—like the Discord bot I'm building for managing student scoreboards. When I'm not coding, I'm usually watching sports, listening to music, or gaming. That's me in a nutshell.<br/>
+<br/>
+
+<br/>
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hello world">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndiCakolli&color=blue&style=for-the-badge" alt="Profile Views Badge" />
 </div>
 
----
-
-### About Me  
-- 🌟 **Code Enthusiast:** Backend developer passionate about building efficient, scalable solutions.  
-- 🔧 **Current Focus:** Developing a **Discord bot** for managing a student scoreboard with achievements and role assignments.  
-- 🛠️ **Features I'm Building:**
-  - Role-based user management tied to achievements.
-  - Integration with Excel for tracking progress and reporting.
-  - Customizable point systems for dynamic use cases.  
-- 🎯 **Goals:** Simplify complex tasks with automation and backend development.  
 
 ---
-🚀 Currently embarking on a new startup journey (details coming soon!).
----
-### Contact Me  
-- 📧 **Email:** [iamandicakolli@gmail.com](mailto:iamandicakolli@gmail.com)  
-- 💼 **LinkedIn:** [Andi Cakolli](https://linkedin.com/in/andicakolli)
-
-🤝 **Collaboration:** Open to project ideas or casual chats—feel free to reach out!
-
+![Divider](https://vaxerski.xyz/github/repos2.gif)
+Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
 ---
 
 ### Tech Stack  
@@ -38,10 +25,4 @@
 
 ---
 
-### Random Fun  
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
-</p>
-
----
 
