@@ -1,7 +1,7 @@
 ![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-I'm a backend developer focused on crafting efficient, scalable solutions—like the Discord bot I'm building for managing student scoreboards. When I'm not coding, I'm usually watching sports, listening to music, or gaming. That's me in a nutshell.<br/>
+I'm a backend developer focused on crafting efficient, scalable solutions—like the Discord bot I'm building for managing student scoreboards. When I'm not coding, I'm usually typing sweet messages to my cutie gf, listening to music, or gaming. That's me in a nutshell.<br/>
 <br/>
 
 <br/>
